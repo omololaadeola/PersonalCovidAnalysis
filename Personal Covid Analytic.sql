@@ -24,6 +24,7 @@ WHERE location = 'united states'
 GROUP BY population, location
 ORDER BY PercentOfPopulationInfected DESC
 
+--Looking at Lowest affected country
 
 
 
